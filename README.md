@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/parlance-labs-mcp-llms-txt-badge.jpg)](https://mseep.ai/app/parlance-labs-mcp-llms-txt)
+
 # mcp-llms
 
 Minimal example of MCP for parsing `llms.txt`
